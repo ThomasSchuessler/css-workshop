@@ -1,0 +1,31 @@
+
+section {
+    color: #555555;
+    font-family: Arial, sans-serif;
+}
+
+section h1 {
+    font-size: 30px;
+    color: #50cb19;
+}
+
+section h2 {
+    font-size: 24px;
+}
+
+section h2 .headline-highlight {
+    color: #50cb19;
+}
+
+section > div {
+    width: 33%;
+}
+
+section h3 + p {
+    font-weight: bold;
+}
+
+section h3 ~ p {
+    font-size: 14px;
+}
+

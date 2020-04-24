@@ -1,0 +1,29 @@
+
+/*
+    Erster Schritt nur h1
+    -> Dann h1 in section setzen
+    -> Style bleibt erhalten
+
+h1 {
+    font-size: 14px;
+}
+*/
+
+
+section {
+    color: #555555;
+    font-family: Arial, sans-serif;
+}
+
+section h1 {
+    font-size: 30px;
+    color: #50cb19;
+}
+
+section h2 {
+    font-size: 20px;
+}
+
+section h2 .headline-highlight {
+    color: #50cb19;
+}

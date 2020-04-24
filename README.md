@@ -1,2 +1,2 @@
 # css-workshop
-Contains Material vor my Workshop
+Contains Material for my Workshop
